@@ -1,6 +1,21 @@
 ---
 title: Home
 sections:
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    image_alt: lorem-ipsum
+    type: section_hero
   - section_id: hero
     type: section_hero
     title: Spring Summer Collection Now Here...
@@ -57,21 +72,6 @@ sections:
       Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
       porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    type: section_hero
   - title: Recent Posts
     section_id: posts
     type: section_posts
