@@ -1,6 +1,15 @@
 ---
 title: Home
 sections:
+  - section_id: hero
+    type: section_hero
+    title: Spring Summer Collection Now Here...
+    subtitle: |
+      ### Get your new gear here
+
+      www.google.com
+    image: images/avatar.png
+    image_alt: Author avatar
   - title: Get your new gear
     section_id: intro
     type: section_content
@@ -24,15 +33,6 @@ sections:
       Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
       porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
-  - section_id: hero
-    type: section_hero
-    title: Spring Summer Collection Now Here...
-    subtitle: |
-      ### Get your new gear here
-
-      www.google.com
-    image: images/avatar.png
-    image_alt: Author avatar
   - title: Recent Posts
     section_id: posts
     type: section_posts
