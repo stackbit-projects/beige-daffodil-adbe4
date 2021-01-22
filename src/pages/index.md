@@ -33,6 +33,7 @@ sections:
       Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
       porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+    image: images/art.svg
   - title: Recent Posts
     section_id: posts
     type: section_posts
