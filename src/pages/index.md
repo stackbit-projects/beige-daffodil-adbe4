@@ -4,7 +4,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: Spring Summer Collection Now Here...
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Get your new gear here
+
+      www.google.com
     image: images/avatar.png
     image_alt: Author avatar
   - title: Get your new gear
