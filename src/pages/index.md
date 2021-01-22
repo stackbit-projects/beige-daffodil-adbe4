@@ -8,7 +8,7 @@ sections:
       ### Get your new gear here
 
       www.google.com
-    image: images/avatar.png
+    image: images/models.png
     image_alt: Author avatar
   - title: A Cat
     section_id: cat
